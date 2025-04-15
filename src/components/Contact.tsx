@@ -20,32 +20,32 @@ const Contact = () => {
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-4">
           <a
-            href="mailto:anudeepallamsetty6@gmail.com"
+            href="mailto:sahithyaravali.k10@gmail.com"
             className="bg-blue-600 hover:bg-blue-700 py-3 px-6 rounded-lg text-white font-semibold transition hover-float"
           >
             Email Me
           </a>
           <a
-            href="https://www.linkedin.com/in/anudeep-allamsetty/"
+            href="https://www.linkedin.com/in/ravali-kandukuri-b8310019b/"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-blue-500 text-blue-500 hover:bg-blue-500 hover:text-white py-3 px-6 rounded-lg font-semibold transition hover-float"
           >
             LinkedIn
           </a>
-          <a
-            href="https://github.com/Anudeep-A-Java"
+          {/* <a
+            href="https://github.com/SahityaRavali/my-angular-app"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-gray-500 text-gray-300 hover:bg-gray-700 hover:text-white py-3 px-6 rounded-lg font-semibold transition hover-float"
           >
             GitHub
-          </a>
+          </a> */}
           <a
-            href="tel:9133030987"
+            href="tel:9132065456"
             className="border border-green-500 text-green-400 hover:bg-green-600 hover:text-white py-3 px-6 rounded-lg font-semibold transition hover-float"
           >
-            Call: 9133030987
+            Call: 9132065456
           </a>
         </div>
       </motion.div>

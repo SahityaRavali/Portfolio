@@ -7,7 +7,7 @@ ChartJS.register(ArcElement, Tooltip, Legend, CategoryScale, LinearScale, BarEle
 
 const Insights = () => {
   const barData = {
-    labels: ["React", "Spring Boot", "MongoDB", "MySQL", "AWS"],
+    labels: ["Angular 17+", "React js", "MySQL", "AWS", "Node js"],
     datasets: [
       {
         label: "Skill Level",
@@ -23,7 +23,7 @@ const Insights = () => {
     datasets: [
       {
         label: "Project Focus",
-        data: [35, 40, 10, 15],
+        data: [70, 30, 10, 15],
         backgroundColor: [
           "#3b82f6",
           "#10b981",

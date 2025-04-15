@@ -12,14 +12,15 @@ const AboutMe = () => {
       >
         <h2 className="text-3xl md:text-4xl font-bold mb-6">About Me</h2>
         <p className="text-lg text-gray-300">
-          I'm Anudeep A, a passionate Full Stack Java Developer with 4+ years of
-          experience in building robust web applications using technologies like
-          React, Spring Boot, MongoDB, and REST APIs.
+ I'm Sahitya Ravali Kandukuri, a Full Stack Developer with 6+ years of experience building scalable, user-focused web applications.
+I specialize in Angular 17+, React.js, TypeScript, SCSS, and Tailwind CSS for modern frontend development.
+Proficient in UI frameworks like Bootstrap, Material UI, Angular Material, and tools like Figma and Adobe XD.
+Experienced in state management (NgRx, Redux, RxJS), testing (Jasmine, Karma, Jest), and REST API integration.
         </p>
         <p className="mt-6 text-lg text-gray-300">
-          I’ve worked on enterprise projects involving job portals, data tracking,
-          and expense management systems. I love problem-solving, exploring new
-          tools, and collaborating in cross-functional agile teams.
+        I’ve worked on complex enterprise applications with a focus on performance, usability, and scalability.
+I enjoy solving challenging problems, exploring new technologies, and writing clean, maintainable code.
+Collaborating in agile, cross-functional teams is where I thrive and deliver my best work.
         </p>
       </motion.div>
     </section>
